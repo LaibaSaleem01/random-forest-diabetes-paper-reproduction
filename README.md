@@ -1,5 +1,7 @@
 # Diabetes Prediction Using Random Forest
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaibaSaleem01/random-forest-diabetes-paper-reproduction/blob/main/diabetes_prediction_random_forest.ipynb)
+
 This project reproduces a published Random Forest study for diabetes prediction using the BRFSS 2015 dataset.
 
 The dataset contains health-related information collected from 70,692 individuals.
